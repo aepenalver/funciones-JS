@@ -1,0 +1,47 @@
+body {
+    background-color: cadetblue;
+}
+
+span {
+    font-weight: bold;
+}
+
+h1 {
+    margin-top: 1em;
+    text-align: center;
+}
+
+.card {
+    margin: 2em;
+}
+
+.card-header {
+    background-color: lightblue;
+}
+
+.card-body {
+    background-color: azure;
+}
+
+.btn-primary {
+    background-color: lightblue;
+    border: 2px solid lightblue;
+    color: black;
+}
+
+.btn-outline-primary {
+    border: 2px solid lightblue;
+    color: cadetblue;
+}
+
+.btn:hover {
+    background-color: cadetblue;
+    border: 2px solid cadetblue;
+}
+
+.btn-1 {
+    margin-left: 4em;
+    margin-right: 0.5em;
+}
+
+
